@@ -1,0 +1,14 @@
+{
+    "currentTheme": {
+        "backgroundColor": "black",
+        "foregroundColor": "orange"
+    },
+    "previousTheme": {
+        "backgroundColor": "red",
+        "foregroundColor": "green"
+    },
+    "draftTheme": {
+        "backgroundColor": "purple",
+        "foregroundColor": "black"
+    }
+}
