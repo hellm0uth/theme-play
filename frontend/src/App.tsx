@@ -37,6 +37,7 @@ const App = () => {
             style={{
                 backgroundColor: themeData?.currentTheme.backgroundColor,
                 color: themeData?.currentTheme.foregroundColor,
+                height: '100vh',
             }}
         >
             <ColorPicker setThemeData={setThemeData} />
